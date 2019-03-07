@@ -1,6 +1,6 @@
 # Google News Search
 
-Searches and displays the top 20 results from google news from the last 24h
+Searches and displays the top 20 results from google news from the last 24h in a GUI
 
 ### Prerequisites 
 
