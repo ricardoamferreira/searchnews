@@ -16,7 +16,7 @@ class Gui:
         self.root.configure(background="grey")
 
         # Creating frames
-        self.top_frame = tk.Frame(self.root, bg="white")  # logo, searchlabel, textinput and search button
+        self.top_frame = tk.Frame(self.root, bg="white")  # logo, searchlabel, text input and search button
         self.bottom_frame = tk.Frame(self.root, bg="grey")  # exit
         self.center_frame = tk.Frame(self.root, bg="grey")  # search results
         self.top_frame.pack(fill=tk.BOTH)
